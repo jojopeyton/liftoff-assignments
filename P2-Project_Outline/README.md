@@ -7,12 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project is a music database called TunIn`. This program allows users to create member profiles and log in and out of those profiles. While the user is inside their personal profile, they have the ability to add songs/artists/genres to the database, as well as add them to a playlist. Users can also search and list those songs or artists. Users might find the profiles useful because the profiles will save their personal playlists and changes made. The idea came from my love for music and and constant use of different music apps such as Youtube, Spotify, and Musi.
 ### Features
-Include Features here
+The features for my program include User authentication, Adding, listing, and searching for songs/artists/genres. Features also include a connected database and api.
 ### Technologies
-Include Technologies here
+C#
+MySQLWorkbench
+HTML/CSS
+EntityFrameWorkCore
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to learn how to connect an API and manage a database.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/9UQDg6v6/lc-project
