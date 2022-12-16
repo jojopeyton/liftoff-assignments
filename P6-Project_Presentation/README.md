@@ -7,4 +7,5 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-https://docs.google.com/presentation/d/1Ra99DbGmRhUoE4SutFd1R57rsRpRB1r8vOImWtMjchc/edit#slide=id.g2a69ff3637_2_5
+
+[Music database Project (2).pdf](https://github.com/jojopeyton/liftoff-assignments/files/10249493/Music.database.Project.2.pdf)
